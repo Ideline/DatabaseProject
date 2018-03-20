@@ -1,0 +1,291 @@
+footer {
+    font-family: adelle-sans,sans-serif;
+    font-size: 14px;
+    line-height: 1.6em;
+    color: #fff;
+    margin-top: 20px;
+    padding: 5pc 0;
+    background: #3a768f;
+    width: 100%;
+}
+
+#footerBackground {
+    display: flex;
+    justify-content: space-around;
+    padding: 0 5% 0 5%;
+}
+
+.footerLogo {
+    margin-left: .83333333%;
+    margin-right: .83333333%;
+}
+
+.footerImg {
+    width: 100%;
+    height: auto;
+}
+
+.footerInfo {
+    width: 31.66666667%;
+    margin-left: .83333333%;
+    margin-right: .83333333%;
+}
+
+.footerContact p {
+    margin: 0;
+}
+
+.appBase {
+    position: relative;
+    min-height: 100%;
+    width: 100%;
+    max-width: 870pt;
+    margin: 0 auto;
+    padding: 0 10px;
+    box-sizing: border-box;
+    font-family: Helvetica,Arial,sans-serif;
+}
+
+.headDiv {
+    display: block;
+    width: 300px;
+    text-decoration: none;
+    margin-top: 20px;
+}
+
+.headLogo {
+    width: 100%;
+}
+
+.searchbar {
+    width: 100%;
+    height: 70px; 
+    margin: 0 0 50px 0;  
+    box-sizing: border-box;
+    background-color: #3a768f;
+}
+
+.headLinks {
+    display: flex;
+}
+
+.headLinks p {
+    margin-left: 20px;
+}
+
+.loginSection{
+    display: flex;
+    justify-content: center;
+}
+
+.loginFrame {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 700px;
+    height: 200px;
+    margin: 50px 0 50px 0;
+    padding-top: 20px;
+    border: 1px solid rgb(218, 218, 218);
+    -webkit-box-shadow: 0px 8px 37px -4px rgba(3,3,3,0.57);
+    -moz-box-shadow: 0px 8px 37px -4px rgba(3,3,3,0.57);
+    box-shadow: 0px 8px 37px -4px rgba(3,3,3,0.57);
+    font-family: Helvetica,Arial,sans-serif;
+}
+
+.loginInput {
+    width: 300px;
+    height: 10px;
+    padding: 10px;
+    margin: 10px 0 10px 0;
+}
+
+.headNav {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.className {
+    font-family: Helvetica,Arial,sans-serif;
+    font-size: 20px;
+}
+
+.className:hover {
+    cursor: pointer;
+}
+
+.hide {
+    display: none;
+}
+
+.studSubDiv {
+    display: flex;
+}
+
+.studSubDiv p {
+    margin: 0 10px 5px 0;
+
+}
+
+.linkToStudenClasses:hover {
+    cursor: pointer;
+}
+
+.linkToStudentGrades:hover {
+    cursor: pointer;
+}
+
+.gradeClassName {
+    font-family: Helvetica,Arial,sans-serif;
+    font-size: 17px;
+}
+
+.gradeDiv {
+    display: flex;
+}
+
+.studentGradeInfo {
+    display: flex;
+    justify-content: center;
+}
+
+.studentGradeInfo div {
+    margin-right: 20px;
+    margin-bottom: 30px;
+    font-size: 22px;
+}
+
+.gradeTable {
+    width: 100%;
+}
+
+.right {
+    text-align: right;
+}
+
+.left {
+    text-align: left;
+}
+
+.tableHead {
+    margin-bottom: 100px;
+}
+
+#userInfo:hover {
+    cursor: pointer;
+}
+
+#classes:hover {
+    cursor: pointer;
+}
+
+#students:hover {
+    cursor: pointer;
+}
+
+#schedule:hover {
+    cursor: pointer;
+}
+
+#bookRoom:hover {
+    cursor: pointer;
+}
+
+#loginButton:hover {
+    cursor: pointer;
+}
+
+.className2 {
+    font-family: Helvetica,Arial,sans-serif;
+    font-size: 25px;
+}
+
+.classTasks {
+    font-family: Helvetica,Arial,sans-serif;
+    font-size: 25px;
+}
+
+.classTask:hover{
+    cursor: pointer;
+}
+
+.addTask {
+    font-weight: 600;
+    margin-top: 50px;
+}
+
+.addTaskButton:hover {
+    cursor: pointer;
+}
+
+.grading {
+    font-weight: 600;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.grading:hover{
+    cursor: pointer;
+}
+
+.gradingForm {
+    margin-right: 20px;
+    margin-top: 5px;
+}
+
+.setGradeButton:hover {
+    cursor: pointer;
+}
+
+.odd {
+    background: #d0edf8;
+}
+
+.gradingForm2 input {
+    cursor: pointer;
+}
+
+.gradingForm3 {
+    display: flex;
+}
+
+.gradingForm3 p {
+    margin: 0;
+}
+
+.gradingForm4 {
+    margin-top: 10px;
+}
+
+.gradingTable {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 100%;
+}
+
+.taskName {
+    font-family: Helvetica,Arial,sans-serif;
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+.taskStudent {
+    display: flex;
+}
+
+.approveTask {
+    height: 35px;
+    margin-top: 10px;
+}
+
+.studenLink2:hover {
+    cursor: pointer;
+}
+
+.studenLink2 {
+    margin-left: 30px;
+}
+
+.approveTask:hover {
+    cursor: pointer;
+}

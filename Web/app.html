@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" type="text/css" href="style/style.css">
+    <title>ECUtbildning</title>
+</head>
+
+<body>
+    <div class="appBase">
+        <header>
+            <div class="headDiv">
+                <img class="headLogo" src="http://www.ecutbildning.se/wp-content/themes/ec-web/assets/ec-logo-full.svg" alt="EC Utbildning Logo"
+                />
+
+            </div>
+            <nav class="headNav">
+                <div class="headLinks">
+                    <p id="classes">Mina kurser</p>
+                    <p id="students">Mina elever</p>
+                    <p id="schedule">Schema</p>
+                    <p id="bookRoom">Boka sal</p>
+                </div>
+            </nav>
+            <section class="searchbar"></section>
+        </header>
+        <main>
+
+            <section class="loginSection">
+                <div class="loginFrame">
+                    <p>Logga in</p>
+                    <input id="UserName" class="loginInput" placeholder="Användarnamn" />
+                    <input id="Password" class="loginInput" placeholder="Lösenord" />
+                    <button id="loginButton">Logga in</button>
+                </div>
+            </section>
+
+            <section class="userInfoSection hide">
+                <div class="studSubDiv">
+                    <p>Personnummer: </p>
+                    <p>811221-3940</p>
+                </div>
+                <div class="studSubDiv">
+                    <p>Förnamn: </p>
+                    <p>Anna-Karin</p>
+                </div>
+                <div class="studSubDiv">
+                    <p>Efternamn: </p>
+                    <p>Friberg</p>
+                </div>
+                <div class="studSubDiv">
+                    <p>Adress: </p>
+                    <p>Fersens väg 4,</p>
+                    <p>211 42</p>
+                    <p>Malmö</p>
+                </div>
+                <div class="studSubDiv">
+                    <p>Telefon: </p>
+                    <p>0721-869005</p>
+                </div>
+                <div class="studSubDiv">
+                    <p>Epost: </p>
+                    <p>akarinwest@gmail.com</p>
+                </div>
+            </section>
+
+            <div class="hide">
+                <div id="studerande"></div>
+                <input type="text" id="EID" placeholder="Elev ID" />
+                <input type="button" id="EIDbutton" value="Sök" />
+            </div>
+
+            <section class="studentSection, hide">
+                <p class="studenLink">811221-3940 Anna-Karin Friberg</p>
+                <p class="studenLink">850521-3756 Sara Larsson</p>
+                <p class="studenLink">910113-2841 Mikael Johansson</p>
+                <p class="studenLink">891104-2310 Ali El-Beyrouti</p>
+                <p class="studenLink">930720-3240 Stina Persson</p>
+            </section>
+
+            <section class="studentInfoSection, hide">
+                <div class="studSubDiv">
+                    <p>Personnummer: </p>
+                    <p>811221-3940</p>
+                </div>
+                <div class="studSubDiv">
+                    <p>Förnamn: </p>
+                    <p>Anna-Karin</p>
+                </div>
+                <div class="studSubDiv">
+                    <p>Efternamn: </p>
+                    <p>Friberg</p>
+                </div>
+                <div class="studSubDiv">
+                    <p>Adress: </p>
+                    <p>Fersens väg 4,</p>
+                    <p>211 42</p>
+                    <p>Malmö</p>
+                </div>
+                <div class="studSubDiv">
+                    <p>Telefon: </p>
+                    <p>0721-869005</p>
+                </div>
+                <div class="studSubDiv">
+                    <p>Epost: </p>
+                    <p>akarinwest@gmail.com</p>
+                </div>
+                <div class="studSubDiv">
+                    <p>Utbildning:</p>
+                    <p>Javautvecklare 2017 - JAUVMA17</p>
+                </div>
+                <p class="linkToStudenClasses">Kurser</p>
+                <p class="linkToStudentGrades">Betygsutdrag</p>
+            </section>
+
+            <section class="classesSection hide">
+                <p class="className">Programmering i Java - PRJA01 - 25 yrkeshögskolepoäng</p>
+                <p class="className">Avancerad Java - AVJA01 - 25 yrkeshögskolepoäng</p>
+                <p class="className">Javascript med jQuery - JSJQ01 - 25 yrkeshögskolepoäng</p>
+                <p class="className">Praktisk Databas Design - PRDB01 - 20 yrkeshögskolepoäng</p>
+                <p class="className">ProjektKunskap - PRKU01 - 20 yrkeshögskolepoäng</p>
+                <p class="className">HTML och CSS - HCSS01 - 25 yrkeshögskolepoäng</p>
+            </section>
+
+            <section class="classInfoSection hide">
+                <p class="className2">Programmering i Java - PRJA01 - 25 yrkeshögskolepoäng</p>
+                <p class="classInfo">Kursen syftar till att studerande utvecklar specialiserade kunskaper inom Javaspråket. De studerande får
+                    lära sig grundläggande strukturer samt mer avancerade språkelement. Historia kring språket och vad som
+                    skiljer det åt från andra objektorienterade språk</p>
+                <p class="classTasks">Kursmoment</p>
+                <ul>
+                    <li class="classTask">Inlämningsuppgift vecka 1</li>
+                </ul>
+                <p class="addTask">Lägg till nytt moment</p>
+                <div class="gradingForm3">
+                    <p>Välj Momentgradering</p>
+                    <input type="radio" name="grade" value="G" checked>G
+                    <input type="radio" name="grade" value="VG">VG
+                </div>
+                <div class="gradingForm4">
+                    <input placeholder="Fyll i namn på moment" />
+                    <button class="addTaskButton">Lägg till moment</button>
+                </div>
+                <p class="grading">Sätt betyg</p>
+            </section>
+
+            <section class="gradingSection hide">
+                <div class="className2">Programmering i Java - PRJA01 - 25 yrkeshögskolepoäng</div>
+                <table class="gradingTable">
+                    <tr class="odd">
+                        <th class="left">Personnummer</th>
+                        <th class="left">Namn</th>
+                        <th class="left">Moment 1</th>
+                        <th class="left">Moment 2</th>
+                        <th class="left">Moment 3</th>
+                        <th class="right">Tentamen</th>
+                        <th class="right">Sätt betyg</th>
+                    </tr>
+                    <tr class="even">
+                        <td class="left">811221-3940</td>
+                        <td class="left">Anna-Karin Friberg</td>
+                        <td class="left">G</td>
+                        <td class="left">G</td>
+                        <td class="left">G</td>
+                        <td class="right">VG</td>
+                        <td class="right">
+                            <div class="gradingForm2">
+                                <input type="radio" name="grade" value="G" checked>G
+                                <input type="radio" name="grade" value="VG">VG
+                                <button class="setGradeButton">OK</button>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr class="odd">
+                        <td class="left">850521-3756</td>
+                        <td class="left">Sara Larsson</td>
+                        <td class="left">G</td>
+                        <td class="left">G</td>
+                        <td class="left">G</td>
+                        <td class="right">G</td>
+                        <td class="right">
+                            <div class="gradingForm2">
+                                <input type="radio" name="grade" value="G">G
+                                <input type="radio" name="grade" value="VG">VG
+                                <button class="setGradeButton">OK</button>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr class="even">
+                        <td class="left">910113-2841</td>
+                        <td class="left">Mikael Johansson</td>
+                        <td class="left">G</td>
+                        <td class="left">G</td>
+                        <td class="left">G</td>
+                        <td class="right">VG</td>
+                        <td class="right">
+                            <div class="gradingForm2">
+                                <input type="radio" name="grade" value="G">G
+                                <input type="radio" name="grade" value="VG">VG
+                                <button class="setGradeButton">OK</button>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr class="odd">
+                        <td class="left">891104-2310</td>
+                        <td class="left">Ali El-Beyrouti</td>
+                        <td class="left">G</td>
+                        <td class="left">G</td>
+                        <td class="left">G</td>
+                        <td class="right">VG</td>
+                        <td class="right">
+                            <div class="gradingForm2">
+                                <input type="radio" name="grade" value="G">G
+                                <input type="radio" name="grade" value="VG">VG
+                                <button class="setGradeButton">OK</button>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr class="even">
+                        <td class="left">930720-3240</td>
+                        <td class="left">Stina Persson</td>
+                        <td class="left">G</td>
+                        <td class="left">G</td>
+                        <td class="left">G</td>
+                        <td class="right">G</td>
+                        <td class="right">
+                            <div class="gradingForm2">
+                                <input type="radio" name="grade" value="G">G
+                                <input type="radio" name="grade" value="VG">VG
+                                <button class="setGradeButton">OK</button>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+            </section>
+
+            <section class="taskStudents hide">
+                <div class="taskName">Inlämningsuppgift vecka 1</div>
+                <div class="taskStudent">
+                    <form class="gradingForm">
+                        <input type="radio" name="grade" value="G" checked>G
+                        <br>
+                        <input type="radio" name="grade" value="VG">VG
+                        <br>
+                    </form>
+                    <button class="approveTask">Sätt Omdömme</button>
+                    <p class="studenLink2">811221-3940 Anna-Karin Friberg</p>
+                </div>
+                <div class="taskStudent">
+                    <form class="gradingForm">
+                        <input type="radio" name="grade" value="G" checked>G
+                        <br>
+                        <input type="radio" name="grade" value="VG">VG
+                        <br>
+                    </form>
+                    <button class="approveTask">Sätt Omdömme</button>
+                    <p class="studenLink2">850521-3756 Sara Larsson</p>
+                </div>
+                <div class="taskStudent">
+                    <form class="gradingForm">
+                        <input type="radio" name="grade" value="G" checked>G
+                        <br>
+                        <input type="radio" name="grade" value="VG">VG
+                        <br>
+                    </form>
+                    <button class="approveTask">Sätt Omdömme</button>
+                    <p class="studenLink2">910113-2841 Mikael Johansson</p>
+                </div>
+                <div class="taskStudent">
+                    <form class="gradingForm">
+                        <input type="radio" name="grade" value="G" checked>G
+                        <br>
+                        <input type="radio" name="grade" value="VG">VG
+                        <br>
+                    </form>
+                    <button class="approveTask">Sätt Omdömme</button>
+                    <p class="studenLink2">891104-2310 Ali El-Beyrouti</p>
+                </div>
+                <div class="taskStudent">
+                    <form class="gradingForm">
+                        <input type="radio" name="grade" value="G" checked>G
+                        <br>
+                        <input type="radio" name="grade" value="VG">VG
+                        <br>
+                    </form>
+                    <button class="approveTask">Sätt Omdömme</button>
+                    <p class="studenLink2">930720-3240 Stina Persson</p>
+                </div>
+            </section>
+
+            <section class="gradeSection, hide">
+                <div class="studentGradeInfo">
+                    <div class="studentGradeInfoName">Anna-Karin Friberg</div>
+                    <div class="studentGradeInfoID">811221-3940</div>
+                </div>
+                <table class="gradeTable">
+                    <tr>
+                        <th class="left">Kursnamn</th>
+                        <th class="right">Betygsdatum</th>
+                        <th class="right">Betyg</th>
+                    </tr>
+                    <tr>
+                        <td class="gradeClassName">Programmering i Java - PRJA01 - 25 yrkeshögskolepoäng</td>
+                        <td class="gradeDate, right">2018-10-06</td>
+                        <td class="grade, right">VG</td>
+                    </tr>
+                    <tr>
+                        <td class="gradeClassName">Avancerad Java - AVJA01 - 25 yrkeshögskolepoäng</td>
+                        <td class="gradeDate, right">2018-02-16</td>
+                        <td class="grade, right">VG</td>
+                    </tr>
+                    <tr>
+                        <td class="gradeClassName">Javascript med jQuery - JSJQ01 - 25 yrkeshögskolepoäng</td>
+                        <td class="gradeDate, right">2018-12-15</td>
+                        <td class="grade, right">VG</td>
+                    </tr>
+                    <tr>
+                        <td class="gradeClassName">Praktisk Databas Design - PRDB01 - 20 yrkeshögskolepoäng</td>
+                        <td class="gradeDate, right">2018-03-23</td>
+                        <td class="grade, right">VG</td>
+                    </tr>
+                    <tr>
+                        <td class="gradeClassName">ProjektKunskap - PRKU01 - 20 yrkeshögskolepoäng</td>
+                        <td class="gradeDate, right">2018-05-30</td>
+                        <td class="grade, right">VG</td>
+                    </tr>
+                    <tr>
+                        <td class="gradeClassName">HTML och CSS - HCSS01 - 25 yrkeshögskolepoäng</td>
+                        <td class="gradeDate, right">2017-11-10</td>
+                        <td class="grade, right">VG</td>
+                    </tr>
+                </table>
+            </section>
+        </main>
+        <footer>
+            <div id="footerBackground">
+                <div class="footerLogo">
+                    <img class="footerImg" src="http://www.ecutbildning.se/wp-content/themes/ec-web/assets/ec-logo-mono.svg" alt="EC Utbildning Logo"
+                    />
+                </div>
+                <div class="footerInfo">
+                    <h3>Kort om EC Utbildning</h3>
+                    <p>EC Utbildning AB, Östra Kanalgatan 5, SE-211 41 Malmö</p>
+                    <p>EC Utbildning erbjuder kvalificerad IT-utbildning. Vi är en del av AcadeMedia, Skandinaviens ledande
+                        utbildningsföretag.
+                    </p>
+                </div>
+                <div class="footerContact">
+                    <h3>Kontakt</h3>
+                    <p>Växel: 040-641 63 00</p>
+                    <p>Fax: 040-97 35 66</p>
+                    <p>E-post: info@ecutbildning.se</p>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="app.js"></script>
+</body>
+
+</html>
