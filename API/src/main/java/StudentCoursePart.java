@@ -35,6 +35,7 @@ public class StudentCoursePart {
                 studentCourseParts.add(scp);
             }
 
+            // TODO: Ändra detta. Gör filtreringen direkt i selecten!!
             coursePartNotGradedStudens = studentCourseParts.stream()
                     .filter(s -> s.Date == null)
                     .collect(Collectors.toList());

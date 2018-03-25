@@ -15,11 +15,11 @@ public class Main {
         enableCORS("null", "GET,PUT,POST", "Access-Control-Allow-Origin, Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With" );
 
         //http://localhost:9999/hello
-        get("/user", (req, res) -> new User().getUser(req.params("eid"), req.params("password")), JsonUtil.json());
-        get("/kurs", (req, res) -> new Course().getClasses(null), JsonUtil.json());
-        get("/kurs/:kurs", (req, res) -> new Course().getClasses(req.params("kurs")), JsonUtil.json());
-        get("/kurs/:kurs/moment", (req, res) -> new CoursePart().getKursMoment(req.params("kurs"), req.params("eid")), JsonUtil.json());
-        get("/moment/:moment", (req, res) -> new CoursePart().getKursMoment(req.params("kurs"), req.params("eid")), JsonUtil.json());
+        get("/user/:eid/:password", (req, res) -> new User().getUser(req.params("eid"), req.params("password")), JsonUtil.json());
+        get("/courses/:eid", (req, res) -> new Course().getCourses(req.params("eid")), JsonUtil.json());
+        get("/course/:cid", (req, res) -> new Course().getCourse(req.params("cid")), JsonUtil.json());
+        get("/course/:cid/parts", (req, res) -> new CoursePart().getCourseParts(req.params("cid")), JsonUtil.json());
+        get("/parts/:part", (req, res) -> new CoursePart().getCoursePart(req.params("part")), JsonUtil.json());
         //Skicka tillbaka datan som json datatypen
         after((req, res) -> {
             res.type("application/json");

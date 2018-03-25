@@ -31,8 +31,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="20" column="116" lean-forward="false" selection-start-line="20" selection-start-column="116" selection-end-line="20" selection-end-column="116" />
+            <state relative-caret-position="314">
+              <caret line="19" column="58" lean-forward="true" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="58" />
               <folding />
             </state>
           </provider>
@@ -51,29 +51,35 @@
       <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="36" column="76" lean-forward="false" selection-start-line="36" selection-start-column="76" selection-end-line="36" selection-end-column="76" />
+            <state relative-caret-position="1222">
+              <caret line="78" column="36" lean-forward="false" selection-start-line="78" selection-start-column="36" selection-end-line="78" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#621#622#0" expanded="true" />
-                <element signature="e#651#652#0" expanded="true" />
-                <marker date="1521573425324" expanded="true" signature="1126:1180" ph="SELECT * FRO... Anstalld" />
-                <marker date="1521573425324" expanded="true" signature="1126:1185" ph="SELECT * FRO... Anstalld" />
-                <marker date="1521573425324" expanded="true" signature="1126:1186" ph="SELECT * FRO... Anstalld" />
-                <marker date="1521573425324" expanded="true" signature="1126:1194" ph="SELECT * FRO... Anstalld" />
+                <element signature="e#586#587#0" expanded="true" />
+                <element signature="e#616#617#0" expanded="true" />
+                <marker date="1521981285450" expanded="true" signature="1123:1152" ph="SELECT * FRO... Anstalld" />
+                <marker date="1521981285450" expanded="true" signature="1123:1157" ph="SELECT * FRO... Anstalld" />
+                <marker date="1521981285450" expanded="true" signature="1123:1158" ph="SELECT * FRO... Anstalld" />
+                <marker date="1521981285450" expanded="true" signature="1123:1159" ph="SELECT * FRO... Anstalld" />
+                <marker date="1521981285450" expanded="true" signature="1123:1171" ph="SELECT * FRO... Anstalld" />
+                <marker date="1521981285450" expanded="true" signature="1123:1172" ph="SELECT * FRO... Anstalld" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Course.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Course.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Course.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="20" column="76" lean-forward="false" selection-start-line="20" selection-start-column="76" selection-end-line="20" selection-end-column="76" />
+            <state relative-caret-position="332">
+              <caret line="80" column="25" lean-forward="true" selection-start-line="80" selection-start-column="25" selection-end-line="80" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <marker date="1521573425442" expanded="true" signature="743:784" ph="SELECT * FRO... UtbSchema" />
+                <marker date="1521988581491" expanded="true" signature="766:767" ph="SELECT * FRO... UtbSchema" />
+                <marker date="1521988581491" expanded="true" signature="766:768" ph="SELECT * FRO... UtbSchema" />
+                <marker date="1521988581491" expanded="true" signature="2284:2314" ph="SELECT * FRO... Kurs" />
+                <marker date="1521988581491" expanded="true" signature="2284:2316" ph="SELECT * FRO... Kurs" />
+                <marker date="1521988581491" expanded="true" signature="2284:2328" ph="SELECT * FRO... Kurs" />
               </folding>
             </state>
           </provider>
@@ -82,8 +88,8 @@
       <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="444">
-              <caret line="24" column="74" lean-forward="false" selection-start-line="24" selection-start-column="74" selection-end-line="24" selection-end-column="74" />
+            <state relative-caret-position="96">
+              <caret line="32" column="12" lean-forward="false" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <marker date="1521573425416" expanded="true" signature="854:933" ph="SELECT * FRO... Studerande" />
@@ -99,28 +105,30 @@
       <file leaf-file-name="CoursePart.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/CoursePart.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="19" column="76" lean-forward="false" selection-start-line="19" selection-start-column="76" selection-end-line="19" selection-end-column="76" />
+            <state relative-caret-position="748">
+              <caret line="22" column="77" lean-forward="false" selection-start-line="22" selection-start-column="77" selection-end-line="22" selection-end-column="77" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <marker date="1521573425211" expanded="true" signature="724:760" ph="SELECT * FRO... KursMoment" />
-                <marker date="1521573425211" expanded="true" signature="724:761" ph="SELECT * FRO... KursMoment" />
-                <marker date="1521573425211" expanded="true" signature="724:782" ph="SELECT * FRO... KursMoment" />
-                <marker date="1521573425211" expanded="true" signature="724:783" ph="SELECT * FRO... KursMoment" />
+                <marker date="1521988876227" expanded="true" signature="713:749" ph="SELECT * FRO... KursMoment" />
+                <marker date="1521988876227" expanded="true" signature="713:750" ph="SELECT * FRO... KursMoment" />
+                <marker date="1521988876227" expanded="true" signature="713:751" ph="SELECT * FRO... KursMoment" />
+                <marker date="1521988876227" expanded="true" signature="713:758" ph="SELECT * FRO... KursMoment" />
+                <marker date="1521988876227" expanded="true" signature="713:763" ph="SELECT * FRO... KursMoment" />
+                <marker date="1521988876227" expanded="true" signature="2230:2254" ph="SELECT * FRO... KursMoment" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StudentCoursePart.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StudentCoursePart.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/StudentCoursePart.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="22" column="76" lean-forward="false" selection-start-line="22" selection-start-column="76" selection-end-line="22" selection-end-column="76" />
+            <state relative-caret-position="318">
+              <caret line="28" column="34" lean-forward="true" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <marker date="1521573425393" expanded="true" signature="864:894" ph="SELECT * FRO... StuderandeMomentmissingValue" />
-                <marker date="1521573425393" expanded="true" signature="864:907" ph="SELECT * FRO... StuderandeMoment" />
+                <marker date="1521624199681" expanded="true" signature="864:894" ph="SELECT * FRO... StuderandeMomentmissingValue" />
+                <marker date="1521624199681" expanded="true" signature="864:907" ph="SELECT * FRO... StuderandeMoment" />
               </folding>
             </state>
           </provider>
@@ -234,14 +242,14 @@
         <option value="$PROJECT_DIR$/src/main/java/Kurs.java" />
         <option value="$PROJECT_DIR$/src/main/java/KursMoment.java" />
         <option value="$PROJECT_DIR$/src/main/java/StuderandeMoment.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/Grade.java" />
         <option value="$PROJECT_DIR$/src/main/java/Studerande.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Student.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StudentCoursePart.java" />
         <option value="$PROJECT_DIR$/src/main/java/User.java" />
         <option value="$PROJECT_DIR$/src/main/java/Course.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Student.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/CoursePart.java" />
-        <option value="$PROJECT_DIR$/src/main/java/StudentCoursePart.java" />
       </list>
     </option>
   </component>
@@ -520,7 +528,7 @@
       <workItem from="1519309634441" duration="1408000" />
       <workItem from="1519335591259" duration="1540000" />
       <workItem from="1519719419329" duration="20917000" />
-      <workItem from="1521485737095" duration="25142000" />
+      <workItem from="1521485737095" duration="36765000" />
     </task>
     <servers />
   </component>
@@ -554,7 +562,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="532072000" />
+    <option name="totallyTimeSpent" value="543695000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -578,7 +586,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.53680634" sideWeight="0.5021482" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36693093" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.47791618" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -590,7 +598,7 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4869762" sideWeight="0.49785176" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42921856" sideWeight="0.49785176" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -625,10 +633,26 @@
           <properties />
           <option name="timeStamp" value="369" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/User.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="396" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/User.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="397" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="395" />
+      <option name="time" value="398" />
     </breakpoint-manager>
-    <watches-manager />
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="rs.getString(&quot;AID&quot;)" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -673,6 +697,11 @@
       </expression>
     </expressions>
     <expressions id="watch">
+      <expression>
+        <expression-string>rs.getString(&quot;AID&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>MoveCollection.whiteSafePositions</expression-string>
         <language-id>JAVA</language-id>
@@ -840,14 +869,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="20" column="116" lean-forward="false" selection-start-line="20" selection-start-column="116" selection-end-line="20" selection-end-column="116" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Grade.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -856,37 +877,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/User.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/StudentCoursePart.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="36" column="76" lean-forward="false" selection-start-line="36" selection-start-column="76" selection-end-line="36" selection-end-column="76" />
+        <state relative-caret-position="318">
+          <caret line="28" column="34" lean-forward="true" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#621#622#0" expanded="true" />
-            <element signature="e#651#652#0" expanded="true" />
-            <marker date="1521573425324" expanded="true" signature="1126:1180" ph="SELECT * FRO... Anstalld" />
-            <marker date="1521573425324" expanded="true" signature="1126:1185" ph="SELECT * FRO... Anstalld" />
-            <marker date="1521573425324" expanded="true" signature="1126:1186" ph="SELECT * FRO... Anstalld" />
-            <marker date="1521573425324" expanded="true" signature="1126:1194" ph="SELECT * FRO... Anstalld" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Course.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="20" column="76" lean-forward="false" selection-start-line="20" selection-start-column="76" selection-end-line="20" selection-end-column="76" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1521573425442" expanded="true" signature="743:784" ph="SELECT * FRO... UtbSchema" />
+            <marker date="1521624199681" expanded="true" signature="864:894" ph="SELECT * FRO... StuderandeMomentmissingValue" />
+            <marker date="1521624199681" expanded="true" signature="864:907" ph="SELECT * FRO... StuderandeMoment" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="24" column="74" lean-forward="false" selection-start-line="24" selection-start-column="74" selection-end-line="24" selection-end-column="74" />
+        <state relative-caret-position="96">
+          <caret line="32" column="12" lean-forward="false" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
             <marker date="1521573425416" expanded="true" signature="854:933" ph="SELECT * FRO... Studerande" />
@@ -898,28 +904,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CoursePart.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="19" column="76" lean-forward="false" selection-start-line="19" selection-start-column="76" selection-end-line="19" selection-end-column="76" />
+        <state relative-caret-position="1222">
+          <caret line="78" column="36" lean-forward="false" selection-start-line="78" selection-start-column="36" selection-end-line="78" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1521573425211" expanded="true" signature="724:760" ph="SELECT * FRO... KursMoment" />
-            <marker date="1521573425211" expanded="true" signature="724:761" ph="SELECT * FRO... KursMoment" />
-            <marker date="1521573425211" expanded="true" signature="724:782" ph="SELECT * FRO... KursMoment" />
-            <marker date="1521573425211" expanded="true" signature="724:783" ph="SELECT * FRO... KursMoment" />
+            <element signature="e#586#587#0" expanded="true" />
+            <element signature="e#616#617#0" expanded="true" />
+            <marker date="1521981285450" expanded="true" signature="1123:1152" ph="SELECT * FRO... Anstalld" />
+            <marker date="1521981285450" expanded="true" signature="1123:1157" ph="SELECT * FRO... Anstalld" />
+            <marker date="1521981285450" expanded="true" signature="1123:1158" ph="SELECT * FRO... Anstalld" />
+            <marker date="1521981285450" expanded="true" signature="1123:1159" ph="SELECT * FRO... Anstalld" />
+            <marker date="1521981285450" expanded="true" signature="1123:1171" ph="SELECT * FRO... Anstalld" />
+            <marker date="1521981285450" expanded="true" signature="1123:1172" ph="SELECT * FRO... Anstalld" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/StudentCoursePart.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/CoursePart.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="22" column="76" lean-forward="false" selection-start-line="22" selection-start-column="76" selection-end-line="22" selection-end-column="76" />
+        <state relative-caret-position="748">
+          <caret line="22" column="77" lean-forward="false" selection-start-line="22" selection-start-column="77" selection-end-line="22" selection-end-column="77" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1521573425393" expanded="true" signature="864:894" ph="SELECT * FRO... StuderandeMomentmissingValue" />
-            <marker date="1521573425393" expanded="true" signature="864:907" ph="SELECT * FRO... StuderandeMoment" />
+            <marker date="1521988876227" expanded="true" signature="713:749" ph="SELECT * FRO... KursMoment" />
+            <marker date="1521988876227" expanded="true" signature="713:750" ph="SELECT * FRO... KursMoment" />
+            <marker date="1521988876227" expanded="true" signature="713:751" ph="SELECT * FRO... KursMoment" />
+            <marker date="1521988876227" expanded="true" signature="713:758" ph="SELECT * FRO... KursMoment" />
+            <marker date="1521988876227" expanded="true" signature="713:763" ph="SELECT * FRO... KursMoment" />
+            <marker date="1521988876227" expanded="true" signature="2230:2254" ph="SELECT * FRO... KursMoment" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="19" column="58" lean-forward="true" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="80" column="25" lean-forward="true" selection-start-line="80" selection-start-column="25" selection-end-line="80" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1521988581491" expanded="true" signature="766:767" ph="SELECT * FRO... UtbSchema" />
+            <marker date="1521988581491" expanded="true" signature="766:768" ph="SELECT * FRO... UtbSchema" />
+            <marker date="1521988581491" expanded="true" signature="2284:2314" ph="SELECT * FRO... Kurs" />
+            <marker date="1521988581491" expanded="true" signature="2284:2316" ph="SELECT * FRO... Kurs" />
+            <marker date="1521988581491" expanded="true" signature="2284:2328" ph="SELECT * FRO... Kurs" />
           </folding>
         </state>
       </provider>
